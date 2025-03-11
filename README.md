@@ -7,6 +7,9 @@
 
 ✉️ Feel free to check ou tthe repos i have and reach out to me at avswain91@gmail.com.
 
+🛜 Check out my blog its not much but its a work in progress. https://aswain009.github.io/skills-github-pages/
+
+
 
 <!--
 **aswain009/aswain009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
