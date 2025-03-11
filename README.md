@@ -3,9 +3,9 @@
 
 🙈 I have been working in this field for 8 years and still feel that there is so much to learn.
 
-🥸 I know there are people out ther who are smarter and better at this than I am but I still want to learn and grow.
+🥸 I know there are people out there who are smarter and better at this than I am but I still want to learn and grow.
 
-✉️ Feel free to check ou tthe repos i have and reach out to me at avswain91@gmail.com.
+✉️ Feel free to check out the repos I have, reach out to me at avswain91@gmail.com.
 
 🛜 Check out my blog its not much but its a work in progress. https://aswain009.github.io/skills-github-pages/
 
