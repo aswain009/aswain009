@@ -7,7 +7,7 @@
 
 ✉️ Feel free to check out the repos I have, reach out to me at avswain91@gmail.com.
 
-🛜 Check out my blog its not much but its a work in progress. https://aswain009.github.io/skills-github-pages/
+🛜 Check out my website! https://aswain009.github.io/interactivePortfolio/
 
 
 
